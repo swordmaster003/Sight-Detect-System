@@ -23,6 +23,6 @@ You can download this asset from Unity Asset Store:
 
 ## Online Documents:
 
-[Sight Detect System](https://www.swordmaster.info/documents/unity-assets-documents/sight-detect-system-manual/)
+[Sight Detect System Manual](https://www.swordmaster.info/documents/unity-assets-documents/sight-detect-system-manual/)
 
 
