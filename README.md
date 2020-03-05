@@ -23,6 +23,7 @@ You can download this asset from Unity Asset Store:
 
 ## Online Documents:
 
-[Fighter HUD System Manual](https://www.swordmaster.info/documents/unity-assets-documents/fighter-hud-system-manual-document/)
+[Sight Detect System]([https://www.swordmaster.info/documents/unity-assets-documents/sight-detect-system-manual/](https://www.swordmaster.info/documents/unity-assets-documents/sight-detect-system-manual/)
+)
 
 
